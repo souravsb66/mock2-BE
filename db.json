@@ -1,27 +1,70 @@
-
 {
   "freelancers": [
     {
-      "id": 1,
-      "name": "John Doe",
-      "email": "john@example.com",
-      "password": "password",
-      "profession": "Web Developer",
-      "skills": ["HTML", "CSS", "JavaScript"],
-      "hourly_rate": 25,
-      "profile_picture": "profile1.jpg",
-			"isBooked" : false
+      "name": "Sourav",
+      "email": "sourav@ymail.com",
+      "password": "abc123",
+      "profession": "web-developer",
+      "skills": ["React", "TS", "JS"],
+      "hourly_rate": 15,
+      "profile_picture": "https://img.freepik.com/premium-vector/young-smiling-man-avatar-man-with-brown-beard-mustache-hair-wearing-yellow-sweater-sweatshirt-3d-vector-people-character-illustration-cartoon-minimal-style_365941-860.jpg",
+      "isBooked": false,
+      "id": 1
     },
     {
-      "id": 2,
-      "name": "Jane Smith",
-      "email": "jane@example.com",
-      "password": "password",
-      "profession": "Graphic Designer",
-      "skills": ["Photoshop", "Illustrator"],
-      "hourly_rate": 30,
-      "profile_picture": "profile2.jpg",
-			"isBooked" : true
+      "name": "Rishav",
+      "email": "rishav@ymail.com",
+      "password": "abc123",
+      "profession": "student",
+      "skills": ["DSA", "Java"],
+      "hourly_rate": 10,
+      "profile_picture": "https://us.123rf.com/450wm/anatolir/anatolir2011/anatolir201105528/159470802-jurist-avatar-icon-flat-style.jpg",
+      "isBooked": false,
+      "id": 2
+    },
+    {
+      "name": "Sid",
+      "email": "sid@ymail.com",
+      "password": "abc123",
+      "profession": "graphic-designer",
+      "skills": ["Figma", "Canva"],
+      "hourly_rate": 20,
+      "profile_picture": "https://thumbs.dreamstime.com/b/flat-male-avatar-image-beard-hairstyle-businessman-profile-icon-vector-179285629.jpg",
+      "isBooked": false,
+      "id": 3
+    },
+    {
+      "name": "Riya",
+      "email": "riya@ymail.com",
+      "password": "abc123",
+      "profession": "student",
+      "skills": ["Python", "ML"],
+      "hourly_rate": 14,
+      "profile_picture": "https://img.freepik.com/premium-vector/female-user-profile-avatar-is-woman-character-screen-saver-with-emotions_505620-617.jpg",
+      "isBooked": false,
+      "id": 4
+    },
+    {
+      "name": "Preeti",
+      "email": "preeti@ymail.com",
+      "password": "abc123",
+      "profession": "graphic-designer",
+      "skills": ["Canva", "Photoshop"],
+      "hourly_rate": 25,
+      "profile_picture": "https://w7.pngwing.com/pngs/129/292/png-transparent-female-avatar-girl-face-woman-user-flat-classy-users-icon.png",
+      "isBooked": false,
+      "id": 5
+    },
+    {
+      "name": "Prabhas",
+      "email": "prabhas@ymail.com",
+      "password": "abc123",
+      "profession": "student",
+      "skills": ["Java", "Springboot"],
+      "hourly_rate": 15,
+      "profile_picture": "https://c8.alamy.com/comp/TC2FPE/young-man-avatar-cartoon-character-profile-picture-TC2FPE.jpg",
+      "isBooked": false,
+      "id": 6
     }
   ]
 }
